@@ -1,7 +1,5 @@
 ## Hello, World! I'm Yi. 👋
-
-<!--
-**YiZhang527/YiZhang527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+Welcome to my Github! 👩‍💻
 
 ## About Me
 - 🎓 I am pursuing a Master's degree in Information Systems at Northeastern University.
